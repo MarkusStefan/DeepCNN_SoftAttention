@@ -5,6 +5,6 @@ Running the code is fairly easy: Just open the notebooks in Google Colaboratory 
 paste in your Kaggle API-key (a json file containing your credentials), and let the notebooks run.
 Also, make sure to turn on the provided cloud-GPU when training the models.
 ```
-for i in range:
+# code or citations 
 
 ```
